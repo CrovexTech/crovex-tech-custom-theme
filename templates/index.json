@@ -15,8 +15,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "NEW LAUNCH SELL OUT EVENT",
-            "heading_size": "h2"
+            "heading": "<strong>NEW LAUNCH SELL OUT EVENT</strong>",
+            "heading_size": "h0"
           }
         },
         "button": {
@@ -55,8 +55,8 @@
         "heading_fKaGCy": {
           "type": "heading",
           "settings": {
-            "heading": "Brand By Puerto Rican Model Shalimar Rivera",
-            "heading_size": "h1"
+            "heading": "<em>Brand By Puerto Rican Model Shalimar Rivera</em>",
+            "heading_size": "h2"
           }
         }
       },
@@ -102,6 +102,20 @@
         "padding_bottom": 36
       }
     },
+    "slideshow_MkpprV": {
+      "type": "slideshow",
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "featured_collection_KKB4fg": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -136,6 +150,7 @@
     "image_banner",
     "rich_text_4i79dE",
     "featured_collection_7QhxkV",
+    "slideshow_MkpprV",
     "featured_collection_KKB4fg"
   ]
 }
