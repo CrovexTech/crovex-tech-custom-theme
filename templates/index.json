@@ -51,18 +51,6 @@
     },
     "rich_text_4i79dE": {
       "type": "rich-text",
-      "blocks": {
-        "heading_fKaGCy": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em>Brand By Puerto Rican Model Shalimar Rivera</em>",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_fKaGCy"
-      ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
