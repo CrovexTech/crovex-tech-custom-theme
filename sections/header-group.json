@@ -1,1 +1,78 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement_mjeRBR":{"type":"announcement","settings":{"text":"70% OFF SELECT PRODUCTS","link":""}},"announcement_3fb83F":{"type":"announcement","settings":{"text":"BE SEEN . BE HEARD . BE SILENCE","link":""}},"announcement-bar-0":{"type":"announcement","settings":{"text":"Welcome to our store","link":""}}},"block_order":["announcement_mjeRBR","announcement_3fb83F","announcement-bar-0"],"settings":{"auto_rotate":true,"change_slides_speed":3,"color_scheme":"scheme-3","show_line_separator":true,"show_social":false,"enable_country_selector":false,"enable_language_selector":false}},"header":{"type":"header","settings":{"logo_position":"top-center","mobile_logo_position":"center","menu":"men-principal-copy","menu_type_desktop":"drawer","sticky_header_type":"always","show_line_separator":false,"color_scheme":"scheme-3","menu_color_scheme":"scheme-3","enable_country_selector":false,"enable_language_selector":true,"enable_customer_avatar":true,"margin_bottom":0,"padding_top":28,"padding_bottom":32}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_mjeRBR": {
+          "type": "announcement",
+          "settings": {
+            "text": "70% OFF SELECT PRODUCTS70% de descuento en productos seleccionados",
+            "link": ""
+          }
+        },
+        "announcement_3fb83F": {
+          "type": "announcement",
+          "settings": {
+            "text": "BE SEEN . BE HEARD . BE SILENCE",
+            "link": ""
+          }
+        },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our storeEsta Navidad, regala Silence",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_mjeRBR",
+        "announcement_3fb83F",
+        "announcement-bar-0"
+      ],
+      "settings": {
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "color_scheme": "scheme-3",
+        "show_line_separator": true,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "top-center",
+        "mobile_logo_position": "center",
+        "menu": "men-principal-copy",
+        "menu_type_desktop": "drawer",
+        "sticky_header_type": "always",
+        "show_line_separator": false,
+        "color_scheme": "scheme-3",
+        "menu_color_scheme": "scheme-3",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "enable_customer_avatar": true,
+        "margin_bottom": 0,
+        "padding_top": 28,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
