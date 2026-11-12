@@ -17,7 +17,7 @@
         "announcement_mjeRBR": {
           "type": "announcement",
           "settings": {
-            "text": "70% OFF SELECT PRODUCTS70% de descuento en productos seleccionados",
+            "text": "70% de descuento en productos seleccionados",
             "link": ""
           }
         },
@@ -31,7 +31,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our storeEsta Navidad, regala Silence",
+            "text": "Esta Navidad, regala Silence",
             "link": ""
           }
         }
