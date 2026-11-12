@@ -15,15 +15,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>NEW LAUNCH SELL OUT EVENT</strong>",
+            "heading": "VIERNES NEGRO · 27 NOVIEMBRE MI LOOK SILENCE · $14.99",
             "heading_size": "h0"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/the-vault",
+            "button_label_1": "Ver y comprar el combo",
+            "button_link_1": "https://www.thesilencecollection.com/products/mi-look-silence-combo-de-viernes-negro",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
