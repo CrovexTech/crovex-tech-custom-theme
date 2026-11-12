@@ -51,8 +51,8 @@
         "@media (max-width: 749px) {h2 {font-size: 36px; } .banner__box {padding: 24px; } .banner__text {font-size: 10px; letter-spacing: 0.12em; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/SilenceHPhero.png",
-        "image_overlay_opacity": 40,
+        "image": "shopify://shop_images/silence-hero-ivory.png",
+        "image_overlay_opacity": 0,
         "image_height": "adapt",
         "image_behavior": "none",
         "desktop_content_position": "middle-left",
